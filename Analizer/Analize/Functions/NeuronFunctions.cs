@@ -565,72 +565,34 @@ namespace Analizer
         //}
         #endregion
 
-        public Dictionary<int, List<double>> BetterExecution(MainPannel mainPannel, int steps, List<NormalizedProperty> normedTesting, int ignoreIndex = 10)
-        {
-            int nrLayers = mainPannel.Layers.Count;
-            if (steps > normedTesting.Count)
-            {
-                throw new ArgumentException("too many steps!");
-            }
-            Dictionary<int, List<double>> scorePerDriver = new Dictionary<int, List<double>>()
-            {
-                { 0,new List<double>() },
-                { 1,new List<double>() },
-            };
-            for (int stepIndex = 0; stepIndex < steps; stepIndex++)
-            {
-                mainPannel = GenerateInputLayer.Generate(stepIndex, mainPannel, normedTesting);
-                mainPannel = DoMath(0, mainPannel);
-                mainPannel.Layers[nrLayers - 1].Neurons = SoftMax(mainPannel.Layers[nrLayers - 1].Neurons);
-                for (int i = 0; i < scorePerDriver.Count; ++i)
-                {
-                    double outValue = mainPannel.Layers[nrLayers - 1].Neurons[i].NeuronValues.Out.Value;
-                    scorePerDriver[i].Add(outValue);
-                }
-            }
-            return scorePerDriver;
-        }
+        //public Dictionary<int, List<double>> BetterExecution(MainPannel mainPannel, int steps, List<NormalizedProperty> normedTesting, int ignoreIndex = 10)
+        //{
+        //    int nrLayers = mainPannel.Layers.Count;
+        //    if (steps > normedTesting.Count)
+        //    {
+        //        throw new ArgumentException("too many steps!");
+        //    }
+        //    Dictionary<int, List<double>> scorePerDriver = new Dictionary<int, List<double>>()
+        //    {
+        //        { 0,new List<double>() },
+        //        { 1,new List<double>() },
+        //    };
+        //    for (int stepIndex = 0; stepIndex < steps; stepIndex++)
+        //    {
+        //        mainPannel = GenerateInputLayer.Generate(stepIndex, mainPannel, normedTesting);
+        //        mainPannel = DoMath(0, mainPannel);
+        //        mainPannel.Layers[nrLayers - 1].Neurons = SoftMax(mainPannel.Layers[nrLayers - 1].Neurons);
+        //        for (int i = 0; i < scorePerDriver.Count; ++i)
+        //        {
+        //            double outValue = mainPannel.Layers[nrLayers - 1].Neurons[i].NeuronValues.Out.Value;
+        //            scorePerDriver[i].Add(outValue);
+        //        }
+        //    }
+        //    return scorePerDriver;
+        //}
 
-        #region Stopping
+        //#region Stopping
 
-        public double Stopping(MainPannel mainPannel, int steps, List<NormalizedProperty> normedTesting, int ignoreIndex = 10)
-        {
-            int nrLayers = mainPannel.Layers.Count;
-            int score = 0;
-            if (steps > normedTesting.Count)
-            {
-                throw new ArgumentException("too many steps!");
-            }
-            for (int stepIndex = 0; stepIndex < steps; stepIndex++)
-            {
-                mainPannel = GenerateInputLayer.Generate(stepIndex, mainPannel, normedTesting);
-                mainPannel = DoMath(0, mainPannel);
-                double classValue = normedTesting[stepIndex].Class;
-                int classIndex = (int)(classValue * 10);
-                mainPannel.Layers[nrLayers - 1].Neurons = SoftMax(mainPannel.Layers[nrLayers - 1].Neurons);
-                if (classIndex == ignoreIndex)
-                {
-                    double outValue = mainPannel.Layers[nrLayers - 1].Neurons[0].NeuronValues.Out.Value;
-                    if (outValue > 90)
-                    {
-                        score++;
-                    }
-                }
-                else
-                {
-                    double outValue = mainPannel.Layers[nrLayers - 1].Neurons[1].NeuronValues.Out.Value;
-                    if (outValue > 90)
-                    {
-                        score++;
-                    }
-                }
-                
-            }
-            return ((double)score / steps) * 100;
-        }
-        #endregion
-
-        #region StoppingSecondStage
         //public double Stopping(MainPannel mainPannel, int steps, List<NormalizedProperty> normedTesting, int ignoreIndex = 10)
         //{
         //    int nrLayers = mainPannel.Layers.Count;
@@ -641,111 +603,149 @@ namespace Analizer
         //    }
         //    for (int stepIndex = 0; stepIndex < steps; stepIndex++)
         //    {
-        //        mainPannel = GenerateInputLayer.GenerateTesting(stepIndex, mainPannel, normedTesting);
+        //        mainPannel = GenerateInputLayer.Generate(stepIndex, mainPannel, normedTesting);
         //        mainPannel = DoMath(0, mainPannel);
         //        double classValue = normedTesting[stepIndex].Class;
         //        int classIndex = (int)(classValue * 10);
-        //        //double outValue = mainPannel.Layers[nrLayers - 1].Neurons[classIndex].NeuronValues.Out.Value;
+        //        mainPannel.Layers[nrLayers - 1].Neurons = SoftMax(mainPannel.Layers[nrLayers - 1].Neurons);
+        //        if (classIndex == ignoreIndex)
+        //        {
+        //            double outValue = mainPannel.Layers[nrLayers - 1].Neurons[0].NeuronValues.Out.Value;
+        //            if (outValue > 90)
+        //            {
+        //                score++;
+        //            }
+        //        }
+        //        else
+        //        {
+        //            double outValue = mainPannel.Layers[nrLayers - 1].Neurons[1].NeuronValues.Out.Value;
+        //            if (outValue > 90)
+        //            {
+        //                score++;
+        //            }
+        //        }
+                
+        //    }
+        //    return ((double)score / steps) * 100;
+        //}
+        //#endregion
+
+        //#region StoppingSecondStage
+        ////public double Stopping(MainPannel mainPannel, int steps, List<NormalizedProperty> normedTesting, int ignoreIndex = 10)
+        ////{
+        ////    int nrLayers = mainPannel.Layers.Count;
+        ////    int score = 0;
+        ////    if (steps > normedTesting.Count)
+        ////    {
+        ////        throw new ArgumentException("too many steps!");
+        ////    }
+        ////    for (int stepIndex = 0; stepIndex < steps; stepIndex++)
+        ////    {
+        ////        mainPannel = GenerateInputLayer.GenerateTesting(stepIndex, mainPannel, normedTesting);
+        ////        mainPannel = DoMath(0, mainPannel);
+        ////        double classValue = normedTesting[stepIndex].Class;
+        ////        int classIndex = (int)(classValue * 10);
+        ////        //double outValue = mainPannel.Layers[nrLayers - 1].Neurons[classIndex].NeuronValues.Out.Value;
+        ////        if (ignoreIndex < 10)
+        ////        {
+        ////            mainPannel.Layers[nrLayers - 1].Neurons[ignoreIndex].NeuronValues.Out.Value = 0;
+        ////        }
+        ////        mainPannel.Layers[nrLayers - 1].Neurons = SoftMax(mainPannel.Layers[nrLayers - 1].Neurons);
+        ////        double outValue = mainPannel.Layers[nrLayers - 1].Neurons[classIndex].NeuronValues.Out.Value;
+        ////        if (outValue > 90)
+        ////        {
+        ////            score++;
+        ////        }
+        ////    }
+        ////    return ((double)score / steps) * 100;
+        ////}
+        //#endregion
+
+        //public Dictionary<int, double> Executing(MainPannel mainPannel, int steps, List<NormalizedProperty> normedTesting, int ignoreIndex = 10)
+        //{
+        //    int nrLayers = mainPannel.Layers.Count;
+        //    Dictionary<int, double> scorePerDriver = new Dictionary<int, double>()
+        //    {
+        //        {0,0 },
+        //        {1,0 },
+        //        {2,0 },
+        //        {3,0 },
+        //        {4,0 },
+        //        {5,0 },
+        //        {6,0 },
+        //        {7,0 },
+        //        {8,0 },
+        //        {9,0 },
+        //    };
+        //    if (steps > normedTesting.Count)
+        //    {
+        //        throw new ArgumentException("too many steps!");
+        //    }
+        //    double sum = 0;
+        //    for (int stepIndex = 0; stepIndex < steps; stepIndex++)
+        //    {
+        //        mainPannel = GenerateInputLayer.Generate(stepIndex, mainPannel, normedTesting);
+        //        mainPannel = DoMath(0, mainPannel);
+        //        double classValue = normedTesting[stepIndex].Class;
+        //        int classIndex = (int)(classValue * 10);
         //        if (ignoreIndex < 10)
         //        {
         //            mainPannel.Layers[nrLayers - 1].Neurons[ignoreIndex].NeuronValues.Out.Value = 0;
         //        }
         //        mainPannel.Layers[nrLayers - 1].Neurons = SoftMax(mainPannel.Layers[nrLayers - 1].Neurons);
-        //        double outValue = mainPannel.Layers[nrLayers - 1].Neurons[classIndex].NeuronValues.Out.Value;
-        //        if (outValue > 90)
+        //        for (int index = 0; index < scorePerDriver.Count; ++index)
         //        {
-        //            score++;
+        //            double value = mainPannel.Layers[nrLayers - 1].Neurons[index].NeuronValues.Out.Value;
+        //            if (value > 90)
+        //            {
+        //                scorePerDriver[index] += 1;
+        //            }
         //        }
         //    }
-        //    return ((double)score / steps) * 100;
+        //    for (int index = 0; index < scorePerDriver.Count; ++index)
+        //    {
+        //        scorePerDriver[index] = (scorePerDriver[index] / normedTesting.Count) * 100;
+        //    }
+        //    return scorePerDriver;
         //}
-        #endregion
 
-        public Dictionary<int, double> Executing(MainPannel mainPannel, int steps, List<NormalizedProperty> normedTesting, int ignoreIndex = 10)
-        {
-            int nrLayers = mainPannel.Layers.Count;
-            Dictionary<int, double> scorePerDriver = new Dictionary<int, double>()
-            {
-                {0,0 },
-                {1,0 },
-                {2,0 },
-                {3,0 },
-                {4,0 },
-                {5,0 },
-                {6,0 },
-                {7,0 },
-                {8,0 },
-                {9,0 },
-            };
-            if (steps > normedTesting.Count)
-            {
-                throw new ArgumentException("too many steps!");
-            }
-            double sum = 0;
-            for (int stepIndex = 0; stepIndex < steps; stepIndex++)
-            {
-                mainPannel = GenerateInputLayer.Generate(stepIndex, mainPannel, normedTesting);
-                mainPannel = DoMath(0, mainPannel);
-                double classValue = normedTesting[stepIndex].Class;
-                int classIndex = (int)(classValue * 10);
-                if (ignoreIndex < 10)
-                {
-                    mainPannel.Layers[nrLayers - 1].Neurons[ignoreIndex].NeuronValues.Out.Value = 0;
-                }
-                mainPannel.Layers[nrLayers - 1].Neurons = SoftMax(mainPannel.Layers[nrLayers - 1].Neurons);
-                for (int index = 0; index < scorePerDriver.Count; ++index)
-                {
-                    double value = mainPannel.Layers[nrLayers - 1].Neurons[index].NeuronValues.Out.Value;
-                    if (value > 90)
-                    {
-                        scorePerDriver[index] += 1;
-                    }
-                }
-            }
-            for (int index = 0; index < scorePerDriver.Count; ++index)
-            {
-                scorePerDriver[index] = (scorePerDriver[index] / normedTesting.Count) * 100;
-            }
-            return scorePerDriver;
-        }
-
-        public Dictionary<int, double> Executing(MainPannel mainPannel, int steps, List<NormalizedProperty> normedTesting, Dictionary<int, double> threshold, int ignoreIndex = 10)
-        {
-            int nrLayers = mainPannel.Layers.Count;
-            Dictionary<int, double> scorePerDriver = new Dictionary<int, double>()
-            {
-                {0,0 },
-                {1,0 },
-            };
-            if (steps > normedTesting.Count)
-            {
-                throw new ArgumentException("too many steps!");
-            }
-            double sum = 0;
-            for (int stepIndex = 0; stepIndex < steps; stepIndex++)
-            {
-                mainPannel = GenerateInputLayer.Generate(stepIndex, mainPannel, normedTesting);
-                mainPannel = DoMath(0, mainPannel);
-                double classValue = normedTesting[stepIndex].Class;
-                int classIndex = (int)(classValue * 10);
-                mainPannel.Layers[nrLayers - 1].Neurons = SoftMax(mainPannel.Layers[nrLayers - 1].Neurons);
-                for (int index = 0; index < scorePerDriver.Count; ++index)
-                {
-                    //sum += mainPannel.Layers[nrLayers - 1].Neurons[index].NeuronValues.Out.Value;
-                    //scorePerDriver[index] += mainPannel.Layers[nrLayers - 1].Neurons[index].NeuronValues.Out.Value;
-                    double value = mainPannel.Layers[nrLayers - 1].Neurons[index].NeuronValues.Out.Value;
-                    if (value > threshold[index])
-                    {
-                        scorePerDriver[index] += 1;
-                    }
-                }
-            }
-            for (int index = 0; index < scorePerDriver.Count; ++index)
-            {
-                scorePerDriver[index] = (scorePerDriver[index] / normedTesting.Count) * 100;
-            }
-            return scorePerDriver;
-        }
+        //public Dictionary<int, double> Executing(MainPannel mainPannel, int steps, List<NormalizedProperty> normedTesting, Dictionary<int, double> threshold, int ignoreIndex = 10)
+        //{
+        //    int nrLayers = mainPannel.Layers.Count;
+        //    Dictionary<int, double> scorePerDriver = new Dictionary<int, double>()
+        //    {
+        //        {0,0 },
+        //        {1,0 },
+        //    };
+        //    if (steps > normedTesting.Count)
+        //    {
+        //        throw new ArgumentException("too many steps!");
+        //    }
+        //    double sum = 0;
+        //    for (int stepIndex = 0; stepIndex < steps; stepIndex++)
+        //    {
+        //        mainPannel = GenerateInputLayer.Generate(stepIndex, mainPannel, normedTesting);
+        //        mainPannel = DoMath(0, mainPannel);
+        //        double classValue = normedTesting[stepIndex].Class;
+        //        int classIndex = (int)(classValue * 10);
+        //        mainPannel.Layers[nrLayers - 1].Neurons = SoftMax(mainPannel.Layers[nrLayers - 1].Neurons);
+        //        for (int index = 0; index < scorePerDriver.Count; ++index)
+        //        {
+        //            //sum += mainPannel.Layers[nrLayers - 1].Neurons[index].NeuronValues.Out.Value;
+        //            //scorePerDriver[index] += mainPannel.Layers[nrLayers - 1].Neurons[index].NeuronValues.Out.Value;
+        //            double value = mainPannel.Layers[nrLayers - 1].Neurons[index].NeuronValues.Out.Value;
+        //            if (value > threshold[index])
+        //            {
+        //                scorePerDriver[index] += 1;
+        //            }
+        //        }
+        //    }
+        //    for (int index = 0; index < scorePerDriver.Count; ++index)
+        //    {
+        //        scorePerDriver[index] = (scorePerDriver[index] / normedTesting.Count) * 100;
+        //    }
+        //    return scorePerDriver;
+        //}
 
         public List<Neuron> SoftMax(List<Neuron> neurons)
         {
