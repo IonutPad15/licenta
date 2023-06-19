@@ -1,0 +1,195 @@
+C:\Ionut\Inteligenta artificiala\Furt\Analizer\Analize\bin\Debug\DrivingDataKia.txt
+C:\Ionut\Inteligenta artificiala\Furt\Analizer\Analize\bin\Debug\ProiectLab3.exe.config
+C:\Ionut\Inteligenta artificiala\Furt\Analizer\Analize\bin\Debug\ProiectLab3.exe
+C:\Ionut\Inteligenta artificiala\Furt\Analizer\Analize\bin\Debug\ProiectLab3.pdb
+C:\Ionut\Inteligenta artificiala\Furt\Analizer\Analize\bin\Debug\CsvHelper.dll
+C:\Ionut\Inteligenta artificiala\Furt\Analizer\Analize\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Ionut\Inteligenta artificiala\Furt\Analizer\Analize\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Ionut\Inteligenta artificiala\Furt\Analizer\Analize\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Ionut\Inteligenta artificiala\Furt\Analizer\Analize\bin\Debug\Newtonsoft.Json.dll
+C:\Ionut\Inteligenta artificiala\Furt\Analizer\Analize\bin\Debug\System.Buffers.dll
+C:\Ionut\Inteligenta artificiala\Furt\Analizer\Analize\bin\Debug\System.Memory.dll
+C:\Ionut\Inteligenta artificiala\Furt\Analizer\Analize\bin\Debug\System.Numerics.Vectors.dll
+C:\Ionut\Inteligenta artificiala\Furt\Analizer\Analize\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Ionut\Inteligenta artificiala\Furt\Analizer\Analize\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Ionut\Inteligenta artificiala\Furt\Analizer\Analize\bin\Debug\CsvHelper.xml
+C:\Ionut\Inteligenta artificiala\Furt\Analizer\Analize\bin\Debug\LumenWorks.Framework.IO.pdb
+C:\Ionut\Inteligenta artificiala\Furt\Analizer\Analize\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Ionut\Inteligenta artificiala\Furt\Analizer\Analize\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Ionut\Inteligenta artificiala\Furt\Analizer\Analize\bin\Debug\Newtonsoft.Json.xml
+C:\Ionut\Inteligenta artificiala\Furt\Analizer\Analize\bin\Debug\System.Buffers.xml
+C:\Ionut\Inteligenta artificiala\Furt\Analizer\Analize\bin\Debug\System.Memory.xml
+C:\Ionut\Inteligenta artificiala\Furt\Analizer\Analize\bin\Debug\System.Numerics.Vectors.xml
+C:\Ionut\Inteligenta artificiala\Furt\Analizer\Analize\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Ionut\Inteligenta artificiala\Furt\Analizer\Analize\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Ionut\Inteligenta artificiala\Furt\Analizer\Analize\obj\Debug\Analize.csproj.AssemblyReference.cache
+C:\Ionut\Inteligenta artificiala\Furt\Analizer\Analize\obj\Debug\Analize.csproj.SuggestedBindingRedirects.cache
+C:\Ionut\Inteligenta artificiala\Furt\Analizer\Analize\obj\Debug\ProiectLab3.Properties.Resources.resources
+C:\Ionut\Inteligenta artificiala\Furt\Analizer\Analize\obj\Debug\Analize.csproj.GenerateResource.cache
+C:\Ionut\Inteligenta artificiala\Furt\Analizer\Analize\obj\Debug\Analize.csproj.CoreCompileInputs.cache
+C:\Ionut\Inteligenta artificiala\Furt\Analizer\Analize\obj\Debug\Analize.csproj.CopyComplete
+C:\Ionut\Inteligenta artificiala\Furt\Analizer\Analize\obj\Debug\ProiectLab3.exe
+C:\Ionut\Inteligenta artificiala\Furt\Analizer\Analize\obj\Debug\ProiectLab3.pdb
+C:\Ionut\Inteligenta artificiala\Furt\Analizer\Analize\obj\Debug\Analizer.Configure.resources
+C:\Ionut\Inteligenta artificiala\Furt\Analizer\Analize\obj\Debug\Analizer.DataViewer.resources
+C:\Ionut\Inteligenta artificiala\Furt\Analizer\Analize\obj\Debug\Analizer.Execution.resources
+C:\Ionut\Inteligenta artificiala\Furt\Analizer\Analize\obj\Debug\Analizer.Form1.resources
+C:\Ionut\Inteligenta artificiala\Furt\Analizer\Analize\obj\Debug\Analizer.Generated.resources
+C:\Ionut\Inteligenta artificiala\Furt\Analizer\Analize\obj\Debug\Analizer.SelectLot.resources
+C:\Ionut\Inteligenta artificiala\Furt\Analizer\Analize\obj\Debug\ProiectLab3.TestGraph.resources
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2)\Analizer\Analize\bin\Debug\DrivingDataKia.txt
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2)\Analizer\Analize\bin\Debug\ProiectLab3.exe.config
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2)\Analizer\Analize\bin\Debug\ProiectLab3.exe
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2)\Analizer\Analize\bin\Debug\ProiectLab3.pdb
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2)\Analizer\Analize\bin\Debug\CsvHelper.dll
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2)\Analizer\Analize\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2)\Analizer\Analize\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2)\Analizer\Analize\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2)\Analizer\Analize\bin\Debug\Newtonsoft.Json.dll
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2)\Analizer\Analize\bin\Debug\System.Buffers.dll
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2)\Analizer\Analize\bin\Debug\System.Memory.dll
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2)\Analizer\Analize\bin\Debug\System.Numerics.Vectors.dll
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2)\Analizer\Analize\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2)\Analizer\Analize\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2)\Analizer\Analize\bin\Debug\CsvHelper.xml
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2)\Analizer\Analize\bin\Debug\LumenWorks.Framework.IO.pdb
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2)\Analizer\Analize\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2)\Analizer\Analize\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2)\Analizer\Analize\bin\Debug\Newtonsoft.Json.xml
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2)\Analizer\Analize\bin\Debug\System.Buffers.xml
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2)\Analizer\Analize\bin\Debug\System.Memory.xml
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2)\Analizer\Analize\bin\Debug\System.Numerics.Vectors.xml
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2)\Analizer\Analize\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2)\Analizer\Analize\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2)\Analizer\Analize\obj\Debug\Analize.csproj.AssemblyReference.cache
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2)\Analizer\Analize\obj\Debug\Analize.csproj.SuggestedBindingRedirects.cache
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2)\Analizer\Analize\obj\Debug\Analizer.Configure.resources
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2)\Analizer\Analize\obj\Debug\Analizer.DataViewer.resources
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2)\Analizer\Analize\obj\Debug\Analizer.Execution.resources
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2)\Analizer\Analize\obj\Debug\Analizer.Form1.resources
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2)\Analizer\Analize\obj\Debug\Analizer.Generated.resources
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2)\Analizer\Analize\obj\Debug\ProiectLab3.Properties.Resources.resources
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2)\Analizer\Analize\obj\Debug\Analizer.SelectLot.resources
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2)\Analizer\Analize\obj\Debug\Analizer.TestGraph.resources
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2)\Analizer\Analize\obj\Debug\Analize.csproj.GenerateResource.cache
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2)\Analizer\Analize\obj\Debug\Analize.csproj.CoreCompileInputs.cache
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2)\Analizer\Analize\obj\Debug\Analize.csproj.CopyComplete
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2)\Analizer\Analize\obj\Debug\ProiectLab3.exe
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2)\Analizer\Analize\obj\Debug\ProiectLab3.pdb
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy\Analizer\Analize\bin\Debug\DrivingDataKia.txt
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy\Analizer\Analize\bin\Debug\ProiectLab3.exe.config
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy\Analizer\Analize\bin\Debug\ProiectLab3.exe
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy\Analizer\Analize\bin\Debug\ProiectLab3.pdb
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy\Analizer\Analize\bin\Debug\CsvHelper.dll
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy\Analizer\Analize\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy\Analizer\Analize\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy\Analizer\Analize\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy\Analizer\Analize\bin\Debug\Newtonsoft.Json.dll
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy\Analizer\Analize\bin\Debug\System.Buffers.dll
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy\Analizer\Analize\bin\Debug\System.Memory.dll
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy\Analizer\Analize\bin\Debug\System.Numerics.Vectors.dll
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy\Analizer\Analize\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy\Analizer\Analize\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy\Analizer\Analize\bin\Debug\CsvHelper.xml
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy\Analizer\Analize\bin\Debug\LumenWorks.Framework.IO.pdb
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy\Analizer\Analize\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy\Analizer\Analize\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy\Analizer\Analize\bin\Debug\Newtonsoft.Json.xml
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy\Analizer\Analize\bin\Debug\System.Buffers.xml
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy\Analizer\Analize\bin\Debug\System.Memory.xml
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy\Analizer\Analize\bin\Debug\System.Numerics.Vectors.xml
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy\Analizer\Analize\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy\Analizer\Analize\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy\Analizer\Analize\obj\Debug\Analize.csproj.AssemblyReference.cache
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy\Analizer\Analize\obj\Debug\Analize.csproj.SuggestedBindingRedirects.cache
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy\Analizer\Analize\obj\Debug\Analizer.Configure.resources
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy\Analizer\Analize\obj\Debug\Analizer.DataViewer.resources
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy\Analizer\Analize\obj\Debug\Analizer.Execution.resources
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy\Analizer\Analize\obj\Debug\Analizer.Form1.resources
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy\Analizer\Analize\obj\Debug\Analizer.Generated.resources
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy\Analizer\Analize\obj\Debug\ProiectLab3.Properties.Resources.resources
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy\Analizer\Analize\obj\Debug\Analizer.SelectLot.resources
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy\Analizer\Analize\obj\Debug\Analizer.TestGraph.resources
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy\Analizer\Analize\obj\Debug\Analize.csproj.GenerateResource.cache
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy\Analizer\Analize\obj\Debug\Analize.csproj.CoreCompileInputs.cache
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy\Analizer\Analize\obj\Debug\Analize.csproj.CopyComplete
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy\Analizer\Analize\obj\Debug\ProiectLab3.exe
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy\Analizer\Analize\obj\Debug\ProiectLab3.pdb
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy - Copy\Analizer\Analize\bin\Debug\DrivingDataKia.txt
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy - Copy\Analizer\Analize\bin\Debug\ProiectLab3.exe.config
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy - Copy\Analizer\Analize\bin\Debug\ProiectLab3.exe
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy - Copy\Analizer\Analize\bin\Debug\ProiectLab3.pdb
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy - Copy\Analizer\Analize\bin\Debug\CsvHelper.dll
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy - Copy\Analizer\Analize\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy - Copy\Analizer\Analize\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy - Copy\Analizer\Analize\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy - Copy\Analizer\Analize\bin\Debug\Newtonsoft.Json.dll
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy - Copy\Analizer\Analize\bin\Debug\System.Buffers.dll
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy - Copy\Analizer\Analize\bin\Debug\System.Memory.dll
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy - Copy\Analizer\Analize\bin\Debug\System.Numerics.Vectors.dll
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy - Copy\Analizer\Analize\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy - Copy\Analizer\Analize\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy - Copy\Analizer\Analize\bin\Debug\CsvHelper.xml
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy - Copy\Analizer\Analize\bin\Debug\LumenWorks.Framework.IO.pdb
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy - Copy\Analizer\Analize\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy - Copy\Analizer\Analize\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy - Copy\Analizer\Analize\bin\Debug\Newtonsoft.Json.xml
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy - Copy\Analizer\Analize\bin\Debug\System.Buffers.xml
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy - Copy\Analizer\Analize\bin\Debug\System.Memory.xml
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy - Copy\Analizer\Analize\bin\Debug\System.Numerics.Vectors.xml
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy - Copy\Analizer\Analize\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy - Copy\Analizer\Analize\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy - Copy\Analizer\Analize\obj\Debug\Analize.csproj.AssemblyReference.cache
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy - Copy\Analizer\Analize\obj\Debug\Analize.csproj.SuggestedBindingRedirects.cache
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy - Copy\Analizer\Analize\obj\Debug\Analizer.Configure.resources
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy - Copy\Analizer\Analize\obj\Debug\Analizer.DataViewer.resources
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy - Copy\Analizer\Analize\obj\Debug\Analizer.Execution.resources
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy - Copy\Analizer\Analize\obj\Debug\Analizer.Form1.resources
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy - Copy\Analizer\Analize\obj\Debug\Analizer.Generated.resources
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy - Copy\Analizer\Analize\obj\Debug\ProiectLab3.Properties.Resources.resources
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy - Copy\Analizer\Analize\obj\Debug\Analizer.SelectLot.resources
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy - Copy\Analizer\Analize\obj\Debug\Analizer.TestGraph.resources
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy - Copy\Analizer\Analize\obj\Debug\Analize.csproj.GenerateResource.cache
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy - Copy\Analizer\Analize\obj\Debug\Analize.csproj.CoreCompileInputs.cache
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy - Copy\Analizer\Analize\obj\Debug\Analize.csproj.CopyComplete
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy - Copy\Analizer\Analize\obj\Debug\ProiectLab3.exe
+C:\Ionut\Inteligenta artificiala\Furt - Copy (2) - Copy - Copy\Analizer\Analize\obj\Debug\ProiectLab3.pdb
+C:\Ionut\Inteligenta artificiala\furt bun\Analizer\Analize\bin\Debug\DrivingDataKia.txt
+C:\Ionut\Inteligenta artificiala\furt bun\Analizer\Analize\bin\Debug\ProiectLab3.exe.config
+C:\Ionut\Inteligenta artificiala\furt bun\Analizer\Analize\bin\Debug\ProiectLab3.exe
+C:\Ionut\Inteligenta artificiala\furt bun\Analizer\Analize\bin\Debug\ProiectLab3.pdb
+C:\Ionut\Inteligenta artificiala\furt bun\Analizer\Analize\bin\Debug\CsvHelper.dll
+C:\Ionut\Inteligenta artificiala\furt bun\Analizer\Analize\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Ionut\Inteligenta artificiala\furt bun\Analizer\Analize\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Ionut\Inteligenta artificiala\furt bun\Analizer\Analize\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Ionut\Inteligenta artificiala\furt bun\Analizer\Analize\bin\Debug\Newtonsoft.Json.dll
+C:\Ionut\Inteligenta artificiala\furt bun\Analizer\Analize\bin\Debug\System.Buffers.dll
+C:\Ionut\Inteligenta artificiala\furt bun\Analizer\Analize\bin\Debug\System.Memory.dll
+C:\Ionut\Inteligenta artificiala\furt bun\Analizer\Analize\bin\Debug\System.Numerics.Vectors.dll
+C:\Ionut\Inteligenta artificiala\furt bun\Analizer\Analize\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Ionut\Inteligenta artificiala\furt bun\Analizer\Analize\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Ionut\Inteligenta artificiala\furt bun\Analizer\Analize\bin\Debug\CsvHelper.xml
+C:\Ionut\Inteligenta artificiala\furt bun\Analizer\Analize\bin\Debug\LumenWorks.Framework.IO.pdb
+C:\Ionut\Inteligenta artificiala\furt bun\Analizer\Analize\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Ionut\Inteligenta artificiala\furt bun\Analizer\Analize\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Ionut\Inteligenta artificiala\furt bun\Analizer\Analize\bin\Debug\Newtonsoft.Json.xml
+C:\Ionut\Inteligenta artificiala\furt bun\Analizer\Analize\bin\Debug\System.Buffers.xml
+C:\Ionut\Inteligenta artificiala\furt bun\Analizer\Analize\bin\Debug\System.Memory.xml
+C:\Ionut\Inteligenta artificiala\furt bun\Analizer\Analize\bin\Debug\System.Numerics.Vectors.xml
+C:\Ionut\Inteligenta artificiala\furt bun\Analizer\Analize\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Ionut\Inteligenta artificiala\furt bun\Analizer\Analize\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Ionut\Inteligenta artificiala\furt bun\Analizer\Analize\obj\Debug\Analize.csproj.AssemblyReference.cache
+C:\Ionut\Inteligenta artificiala\furt bun\Analizer\Analize\obj\Debug\Analize.csproj.SuggestedBindingRedirects.cache
+C:\Ionut\Inteligenta artificiala\furt bun\Analizer\Analize\obj\Debug\Analizer.Configure.resources
+C:\Ionut\Inteligenta artificiala\furt bun\Analizer\Analize\obj\Debug\Analizer.DataViewer.resources
+C:\Ionut\Inteligenta artificiala\furt bun\Analizer\Analize\obj\Debug\Analizer.Execution.resources
+C:\Ionut\Inteligenta artificiala\furt bun\Analizer\Analize\obj\Debug\Analizer.Generated.resources
+C:\Ionut\Inteligenta artificiala\furt bun\Analizer\Analize\obj\Debug\ProiectLab3.Properties.Resources.resources
+C:\Ionut\Inteligenta artificiala\furt bun\Analizer\Analize\obj\Debug\Analizer.SelectLot.resources
+C:\Ionut\Inteligenta artificiala\furt bun\Analizer\Analize\obj\Debug\Analizer.TestGraph.resources
+C:\Ionut\Inteligenta artificiala\furt bun\Analizer\Analize\obj\Debug\Analize.csproj.GenerateResource.cache
+C:\Ionut\Inteligenta artificiala\furt bun\Analizer\Analize\obj\Debug\Analize.csproj.CoreCompileInputs.cache
+C:\Ionut\Inteligenta artificiala\furt bun\Analizer\Analize\obj\Debug\Analize.csproj.CopyComplete
+C:\Ionut\Inteligenta artificiala\furt bun\Analizer\Analize\obj\Debug\ProiectLab3.exe
+C:\Ionut\Inteligenta artificiala\furt bun\Analizer\Analize\obj\Debug\ProiectLab3.pdb
+C:\Ionut\Inteligenta artificiala\furt bun\Analizer\Analize\obj\Debug\Analizer.Load.resources
